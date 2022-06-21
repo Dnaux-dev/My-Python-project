@@ -1,0 +1,4 @@
+Dear $(Betty),
+
+  Have a great weekend!
+  bye
